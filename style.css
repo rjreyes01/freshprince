@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+
+}
+
+#body {
+	background: blue;
+	text-align: center;
+}
+
+p, li, a {
+	color: white;
+	font-family: "arial", Georgia, Serif;
+}
+
+a {
+	font-weight: bold;
+	font-size: 2em;
+}
